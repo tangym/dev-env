@@ -1,6 +1,6 @@
 apt-get update
 apt-get install -y \
-    tmux nano \
+    tmux nano unzip \
     python3 python3-pip \
     nginx \
     texlive-xetex
