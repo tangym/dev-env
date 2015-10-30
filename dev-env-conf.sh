@@ -7,4 +7,4 @@ apt-get install -y \
 pip3 install flask flask_restful \
      numpy \
      pyyaml markdown 
-pip3 install pandas pylab
+pip3 install pandas matplotlib
