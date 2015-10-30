@@ -5,6 +5,6 @@ apt-get install -y \
     nginx \
     texlive-xetex
 pip3 install flask flask_restful \
-     numpy pylab \
+     numpy scipy \
      pyyaml markdown 
-pip3 install pandas
+pip3 install pandas pylab
