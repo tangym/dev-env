@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINTER tym
+MAINTAINER tym
 
 ADD . .
 RUN chmod +x dev-env-conf.sh
